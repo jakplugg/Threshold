@@ -3,7 +3,7 @@ Threshold Is a variation of mutable instruments edges with the optional MIDI exp
 
 10Hp eurorack module.
 
-![Panel render](http://panel1.jpg)
+![Panel render](panel1.jpg)
 
 Changes from stock + expander: 
 * Smaller format.
