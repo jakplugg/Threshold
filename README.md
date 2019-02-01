@@ -9,7 +9,7 @@ Changes from stock + expander:
 * Smaller format.
 * The MIDI 3.5 mm jack can take either polarity MIDI input cable.
 
-[Google sheet BOM (in progress):](https://docs.google.com/spreadsheets/d/1RgaPN_YdO_VuwdeUBHkcrlwIOgGYM_RJl-FyqPO2IpU/edit?usp=sharing)
+[Google sheet BOM (in progress):](https://docs.google.com/spreadsheets/d/1nCMJflaLFtwUi6HDH4o52J6lPIyUTL-9VEssIF-3D1U/edit?usp=sharing)
 
 JM.
 
